@@ -1,0 +1,1 @@
+cargo build --profile wasm --target wasm32-unknown-unknown

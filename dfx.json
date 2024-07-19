@@ -1,0 +1,17 @@
+{
+  "canisters": {
+    "wasmi_backend": {
+      "candid": "src/wasmi_backend/wasmi_backend.did",
+      "package": "wasmi_backend",
+      "type": "rust"
+    }
+  },
+  "defaults": {
+    "build": {
+      "args": "",
+      "packtool": ""
+    }
+  },
+  "output_env_file": ".env",
+  "version": 1
+}
